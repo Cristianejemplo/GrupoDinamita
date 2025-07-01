@@ -1,2 +1,2 @@
 # GrupoDinamita
-ejemplo de la clase
+Cristian Santiago
