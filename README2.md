@@ -1,1 +1,2 @@
 Altamirano Tuquerrez
+Gomez Vivar
